@@ -12,7 +12,7 @@ You can install the released version of SignalPredict from with:
 
 ``` r
 # Install SignalPredict
-devtools::install_github("DeiverSuarez/SignalPredict")      
+devtools::install_github("DeiverSuarez/SignalPredict", auth_token = "your GitHub token")      
 ```
 ## Example
 
